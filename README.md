@@ -8,4 +8,9 @@ Most of the fields in this JSON file are self-explanatory, so I won’t waste yo
 
 You’ll also notice I’ve added a permissions section that specifies that we need to have permission to access the `activeTab`. This is required in order to enable us to get the URL of the current tab to pass on to GTmetrix.
 
+## Deployment and Testing
 
+1. Navigate to the url `chrome://extensions/`.
+2. Check the checkbox next to `Developer mode`.
+3. Press `Load unpacked extension...`
+4. Select the folder containing the extension.
