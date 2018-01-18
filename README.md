@@ -1,3 +1,7 @@
+# example-chrome-extension
+
+Example chrome extension. Alerts "Hello world".
+
 ## manifest.json
 
 Most of the fields in this JSON file are self-explanatory, so I won’t waste your time explaining everything, but take note of the `browser_action` section where we specify what the default icon is and what HTML page should be displayed when the Browser Action button is clicked.
