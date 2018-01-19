@@ -6,8 +6,9 @@
 // });
 
 $(document).ready(function(){
-	alert("ready!");
 	$("#helloWorld").click(function() {
-		alert("Hello world");
+		// var text = window.getSelection().toString();
+		// alert(text);
+		alert("Hello World!")
 	})
 })
