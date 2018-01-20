@@ -2,7 +2,7 @@
     "manifest_version": 2,
 
     "name": "Hello World",
-    "description": "This extension will print hello world",
+    "description": "This extension saves the highlighted text",
     "version": "1.0",
 
     "browser_action": {
